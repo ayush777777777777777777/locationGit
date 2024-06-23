@@ -183,8 +183,8 @@ function App() {
                   </Dialog>
                 </DropdownMenu>
               ) : (
-                <Link to="https://github.com/developerrahulofficial" className="px-2 sm:px-4 py-2 block font-bold text-white login-button">
-                  created for ❤️ by Developer Rahul
+                <Link to="https://github.com/ayush777777777777777777" className="px-2 sm:px-4 py-2 block font-bold text-white login-button">
+                  created for ❤️ by Developer Ayush
                 </Link>
               )}
             </ul>

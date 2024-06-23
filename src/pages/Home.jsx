@@ -61,7 +61,7 @@ function Home() {
           </div>
 
           <a href="https://my-portfolio-upgraded-pr2utpg2t-developerrahulofficial.vercel.app" target="_blank" rel="noopener noreferrer" className=" font-Hublot leading-12 tracking-wider pb-2 jack-sheehy">
-            <span className="text-gray-300 font-bold">Developer Rahul ❤️ :) </span> <br />
+            <span className="text-gray-300 font-bold">Developer Ayush ❤️ :) </span> <br />
             <span className="text-gray-400"> ©2023 </span>
           </a>
         </div>
